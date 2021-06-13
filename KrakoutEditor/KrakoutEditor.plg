@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: KrakoutEditor - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSP9271.TMP" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Fp"Release/KrakoutEditor.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\From Visual C++ 6.0\Workings projects\API Projects\Krakout\KrakoutEditor\KrakoutEditor.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP9271.TMP" 
+Creating command line "link.exe mfc42.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/KrakoutEditor.pdb" /machine:I386 /out:"Release/KrakoutEditor.exe"  ".\Release\KrakoutEditor.obj" "
+<h3>Output Window</h3>
+Compiling...
+KrakoutEditor.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+KrakoutEditor.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
